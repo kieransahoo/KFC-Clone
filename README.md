@@ -19,7 +19,7 @@ WEB-18 U2, construct week project KFC clone
 ## Team Members
 1. Randhir Kumar 
 2. Summaiya Begum 
-3. Kiran Sahu
+3. Kiran Sahoo
 4. Sahnawaz Hussain 
 5. Nitish Kumar
 
